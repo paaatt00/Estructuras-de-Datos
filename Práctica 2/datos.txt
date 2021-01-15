@@ -1,0 +1,13 @@
+Lechuga//Luis//Calle de la Esperanza 8//NVIP//780048454512//4
+iPhone//Luis//Calle de la Esperanza 8//NVIP//780048454512//2
+Portatil//Martita//Calle la Dehesa 15//VIP//780048454566//6
+Coliflor//Martita//Calle la Dehesa 15//VIP//780048454566//7
+Libro electronico//Leonardo //Calle Luna 7//VIP//800134566711//7
+Monitor//Carla////NR//780678345667//5
+Movil//Carla////NR//800134566711//1
+Monitor//Clara//Avenida Principe Pio 36//VIP//780453745667//5
+Altavoces//Clara//Avenida Principe Pio 36//VIP//780048454566//2
+Coliflor//Clara//Avenida Principe Pio 36//VIP//780453745667//4
+Estuche//Jesus//Calle del Sol 1//NR//780453745667//3
+Coliflor//Jesus//Calle del Sol 1//NR//780453745667//2
+Chanclas//Jesus////NR//780453745667//3

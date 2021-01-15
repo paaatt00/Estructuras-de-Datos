@@ -1,0 +1,353 @@
+# depslib dependency file v1.0
+1608807597 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\colapedidos.cpp
+	<iostream>
+	"ColaPedidos.h"
+
+1608807609 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\colapedidos.h
+	"NodoCola.h"
+	"Pedido.h"
+
+1608807956 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\nodocola.h
+	"Pedido.h"
+
+1609696762 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\pedido.h
+	<string>
+	<iostream>
+
+1609760502 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\correos.cpp
+	"Correos.h"
+	<iostream>
+	<fstream>
+
+1609591041 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\correos.h
+	"Pedido.h"
+	"ColaPedidos.h"
+	"PilaPedidos.h"
+	"ListaPedidos.h"
+	"ArbolPedidos.h"
+
+1608808704 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\pilapedidos.h
+	"NodoPila.h"
+	"Pedido.h"
+
+1608808112 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\nodopila.h
+	"Pedido.h"
+
+1609846911 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\listapedidos.h
+	"NodoLista.h"
+	"ListaPedidos.h"
+	"Cliente.h"
+	"Pedido.h"
+
+1609783766 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\nodolista.h
+	"Pedido.h"
+	"PedidoPeque.h"
+	"Cliente.h"
+
+1609847592 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\listapedidos.cpp
+	"ListaPedidos.h"
+	"PilaPedidos.h"
+	<algorithm>
+	<iostream>
+	<vector>
+
+1608807981 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\nodocola.cpp
+	"NodoCola.h"
+
+1609783836 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\nodolista.cpp
+	"NodoLista.h"
+
+1608808123 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\nodopila.cpp
+	"NodoPila.h"
+
+1609696777 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\pedido.cpp
+	"Pedido.h"
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<string>
+
+1608808704 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\pilapedidos.cpp
+	"PilaPedidos.h"
+
+1609848364 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\main.cpp
+	<iostream>
+	<fstream>
+	"Pedido.h"
+	"ColaPedidos.h"
+	"ListaPedidos.h"
+	"PilaPedidos.h"
+	"Correos.h"
+	"ArbolPedidos.h"
+	"Cliente.h"
+
+1609783307 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\arbolpedidos.h
+	"ListaPedidos.h"
+	"NodoArbol.h"
+	"Cliente.h"
+	<string>
+	<iostream>
+
+1609780979 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\nodoarbol.h
+	"ListaPedidos.h"
+	"Cliente.h"
+
+1609781086 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\nodoarbol.cpp
+	"NodoArbol.h"
+
+1608981597 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\pedidopeque.cpp
+	"PedidoPeque.h"
+
+1608983303 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\pedidopeque.h
+	<string>
+	<iostream>
+
+1608982926 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\cliente.cpp
+	"Cliente.h"
+
+1608982708 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\include\cliente.h
+	<string>
+	<iostream>
+
+1609846924 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2\pl2\src\arbolpedidos.cpp
+	"ArbolPedidos.h"
+	"ListaPedidos.h"
+	"Cliente.h"
+	<string>
+	<iostream>
+	<algorithm>
+
+1610279168 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\arbolpedidos.cpp
+	"ArbolPedidos.h"
+	"ListaPedidos.h"
+	"Cliente.h"
+	<string>
+	<iostream>
+	<algorithm>
+
+1609870937 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\arbolpedidos.h
+	"ListaPedidos.h"
+	"NodoArbol.h"
+	"Cliente.h"
+	<string>
+	<iostream>
+
+1609870723 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\listapedidos.h
+	"NodoLista.h"
+	"ListaPedidos.h"
+	"Cliente.h"
+	"Pedido.h"
+
+1610220441 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\nodolista.h
+	"Pedido.h"
+	"PedidoPeque.h"
+	"Cliente.h"
+
+1609696762 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\pedido.h
+	<string>
+	<iostream>
+
+1608983303 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\pedidopeque.h
+	<string>
+	<iostream>
+
+1608982708 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\cliente.h
+	<string>
+	<iostream>
+
+1610220916 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\nodoarbol.h
+	"ListaPedidos.h"
+	"Cliente.h"
+
+1608982926 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\cliente.cpp
+	"Cliente.h"
+
+1610218672 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\colapedidos.cpp
+	<iostream>
+	"ColaPedidos.h"
+
+1608807609 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\colapedidos.h
+	"NodoCola.h"
+	"Pedido.h"
+
+1608807956 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\nodocola.h
+	"Pedido.h"
+
+1610274571 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\correos.cpp
+	"Correos.h"
+	<iostream>
+	<fstream>
+	<string>
+
+1610214364 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\correos.h
+	"Pedido.h"
+	"ColaPedidos.h"
+	"PilaPedidos.h"
+	"ListaPedidos.h"
+	"ArbolPedidos.h"
+
+1608808704 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\pilapedidos.h
+	"NodoPila.h"
+	"Pedido.h"
+
+1608808112 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\include\nodopila.h
+	"Pedido.h"
+
+1610278631 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\listapedidos.cpp
+	"ListaPedidos.h"
+	"PilaPedidos.h"
+	<algorithm>
+	<iostream>
+	<vector>
+
+1610220916 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\nodoarbol.cpp
+	"NodoArbol.h"
+
+1608807981 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\nodocola.cpp
+	"NodoCola.h"
+
+1610220424 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\nodolista.cpp
+	"NodoLista.h"
+
+1608808123 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\nodopila.cpp
+	"NodoPila.h"
+
+1609696777 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\pedido.cpp
+	"Pedido.h"
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<string>
+
+1609952917 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\src\pilapedidos.cpp
+	"PilaPedidos.h"
+
+1610279561 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 2\pl2\main.cpp
+	<iostream>
+	<fstream>
+	"Pedido.h"
+	"ColaPedidos.h"
+	"ListaPedidos.h"
+	"PilaPedidos.h"
+	"Correos.h"
+	"ArbolPedidos.h"
+	"Cliente.h"
+
+1610133589 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\main.cpp
+	<iostream>
+	<fstream>
+	"Pedido.h"
+	"ColaPedidos.h"
+	"ListaPedidos.h"
+	"PilaPedidos.h"
+	"Correos.h"
+	"ArbolPedidos.h"
+	"Cliente.h"
+
+1609696762 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\pedido.h
+	<string>
+	<iostream>
+
+1608807609 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\colapedidos.h
+	"NodoCola.h"
+	"Pedido.h"
+
+1608807956 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\nodocola.h
+	"Pedido.h"
+
+1609870723 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\listapedidos.h
+	"NodoLista.h"
+	"ListaPedidos.h"
+	"Cliente.h"
+	"Pedido.h"
+
+1609783766 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\nodolista.h
+	"Pedido.h"
+	"PedidoPeque.h"
+	"Cliente.h"
+
+1608983303 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\pedidopeque.h
+	<string>
+	<iostream>
+
+1608982708 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\cliente.h
+	<string>
+	<iostream>
+
+1608808704 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\pilapedidos.h
+	"NodoPila.h"
+	"Pedido.h"
+
+1608808112 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\nodopila.h
+	"Pedido.h"
+
+1609591041 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\correos.h
+	"Pedido.h"
+	"ColaPedidos.h"
+	"PilaPedidos.h"
+	"ListaPedidos.h"
+	"ArbolPedidos.h"
+
+1609870937 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\arbolpedidos.h
+	"ListaPedidos.h"
+	"NodoArbol.h"
+	"Cliente.h"
+	<string>
+	<iostream>
+
+1609949532 d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\include\nodoarbol.h
+	"ListaPedidos.h"
+	"Cliente.h"
+
+1610134038 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\arbolpedidos.cpp
+	"ArbolPedidos.h"
+	"ListaPedidos.h"
+	"Cliente.h"
+	<string>
+	<iostream>
+	<algorithm>
+
+1608982926 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\cliente.cpp
+	"Cliente.h"
+
+1608807597 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\colapedidos.cpp
+	<iostream>
+	"ColaPedidos.h"
+
+1609874513 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\listapedidos.cpp
+	"ListaPedidos.h"
+	"PilaPedidos.h"
+	<algorithm>
+	<iostream>
+	<vector>
+
+1609949518 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\nodoarbol.cpp
+	"NodoArbol.h"
+
+1608807981 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\nodocola.cpp
+	"NodoCola.h"
+
+1609783836 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\nodolista.cpp
+	"NodoLista.h"
+
+1608808123 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\nodopila.cpp
+	"NodoPila.h"
+
+1609696777 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\pedido.cpp
+	"Pedido.h"
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<string>
+
+1609952917 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\pilapedidos.cpp
+	"PilaPedidos.h"
+
+1610134208 source:d:\documentos\documentos personales\universidad\curso_2020-2021\1c_estructuras_de_datos\laboratorio\pl2 patri\pl2\src\correos.cpp
+	"Correos.h"
+	<iostream>
+	<fstream>
+
