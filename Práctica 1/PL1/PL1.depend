@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1605030588 source:c:\users\isabe\onedrive\escritorio\pl1\pl1\src\colapedidos.cpp
+	"ColaPedidos.h"
+
+1605030574 c:\users\isabe\onedrive\escritorio\pl1\pl1\include\colapedidos.h
+	"NodoCola.h"
+	"Pedido.h"
+
+1605028388 c:\users\isabe\onedrive\escritorio\pl1\pl1\include\nodocola.h
+	"Pedido.h"
+
+1605033861 c:\users\isabe\onedrive\escritorio\pl1\pl1\include\pedido.h
+	<string>
+	<iostream>
+
+1605028760 source:c:\users\isabe\onedrive\escritorio\pl1\pl1\src\nodocola.cpp
+	"NodoCola.h"
+
+1605010606 source:c:\users\isabe\onedrive\escritorio\pl1\pl1\src\nodopila.cpp
+	"NodoPila.h"
+
+1605029573 c:\users\isabe\onedrive\escritorio\pl1\pl1\include\nodopila.h
+	"Pedido.h"
+
+1605033919 source:c:\users\isabe\onedrive\escritorio\pl1\pl1\src\pedido.cpp
+	"Pedido.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+
+1605028760 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\pl1\pl1\pl1\src\nodocola.cpp
+	"NodoCola.h"
+
+1605028388 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\pl1\pl1\pl1\include\nodocola.h
+	"Pedido.h"
+
+1605033861 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\pl1\pl1\pl1\include\pedido.h
+	<string>
+	<iostream>
+
+1605010606 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\pl1\pl1\pl1\src\nodopila.cpp
+	"NodoPila.h"
+
+1605029573 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\pl1\pl1\pl1\include\nodopila.h
+	"Pedido.h"
+
+1605033919 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\pl1\pl1\pl1\src\pedido.cpp
+	"Pedido.h"
+	<stdlib.h>
+	<string>
+	<iostream>
+
+1606615186 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\main.cpp
+	<iostream>
+	<fstream>
+	"Pedido.h"
+	"ColaPedidos.h"
+	"ListaPedidos.h"
+	"PilaPedidos.h"
+	"Correos.h"
+
+1606579708 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\include\pedido.h
+	<string>
+	<iostream>
+
+1606222491 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\include\colapedidos.h
+	"NodoCola.h"
+	"Pedido.h"
+
+1606612763 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\include\nodocola.h
+	"Pedido.h"
+
+1606654864 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\include\pilapedidos.h
+	"NodoPila.h"
+	"Pedido.h"
+
+1606610015 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\include\nodopila.h
+	"Pedido.h"
+
+1606617430 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\src\colapedidos.cpp
+	<iostream>
+	"ColaPedidos.h"
+
+1606609178 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\src\listapedidos.cpp
+	"ListaPedidos.h"
+
+1606569464 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\include\listapedidos.h
+	"NodoLista.h"
+
+1606224705 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\include\nodolista.h
+	"Pedido.h"
+
+1606612763 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\src\nodocola.cpp
+	"NodoCola.h"
+
+1606223770 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\src\nodolista.cpp
+	"NodoLista.h"
+
+1606610014 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\src\nodopila.cpp
+	"NodoPila.h"
+
+1606579708 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\src\pedido.cpp
+	"Pedido.h"
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<string>
+
+1606675849 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\src\pilapedidos.cpp
+	"PilaPedidos.h"
+
+1606676961 source:d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\src\correos.cpp
+	"Correos.h"
+	<iostream>
+
+1606520053 d:\universidad\2º\1º cuatrimestre\estructura de datos 2.0\laboratorio\práctica 1\pl1\include\correos.h
+	"Pedido.h"
+	"ColaPedidos.h"
+	"PilaPedidos.h"
+	"ListaPedidos.h"
+
